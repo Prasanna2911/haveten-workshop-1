@@ -1,0 +1,186 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* height: 100vh; */
+}
+/* 
+.box {
+  width: 120px;
+  height: 120px;
+  background-color: blue;
+   animation-name: spin;
+  animation-duration: 1s; 
+   animation-timing-function: ease;
+   animation-iteration-count: infinite;  
+   animation-delay: 2s; 
+   animation-fill-mode: forwards; 
+  animation-direction 
+
+  animation: 2s spin ease 1s 3 reverse;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+p {
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  color: white;
+}
+
+@keyframes spin {
+  0% {
+  }
+  50% {
+    scale: 2;
+    transform: rotate(360deg);
+    border-radius: 50%;
+  }
+  100% {
+    transform: rotate(360deg);
+    border-radius: 50%;
+    scale: 2;
+  }
+}
+
+.btn-div {
+  margin-top: 80px;
+}
+button {
+  width: 150px;
+  padding: 2px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  height: 40px;
+  cursor: pointer;
+}
+.btn-div #paused {
+  background-color: red;
+}
+.btn-div #running {
+  background-color: green;
+} */
+
+/* loader animation */
+/* .loader {
+  width: 120px;
+  height: 120px;
+  border: 5px solid #fff;
+  border-radius: 50%;
+  border-top: 5px solid blue;
+  animation: loading 2s linear 1s infinite;
+} */
+
+/* @keyframes loading {
+  from {
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* ----------- */
+/* 
+#btn {
+  border: none;
+  background-color: green;
+  font-size: 17px;
+  padding: 4px;
+  font-weight: 700;
+  width: 170px;
+  height: 40px;
+  border-radius: 12px;
+  transition-property: all;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+}
+#btn:hover {
+  transform: translateY(-20px); 
+}
+  */
+
+/* ------------ */
+
+/* .box-div {
+  border: 1px solid brown;
+  height: 700px;
+  width: 700px;
+} */
+/* .box {
+  width: 120px;
+  height: 120px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
+/* .box-1 {
+  background-color: red;
+  position: relative;
+  left: 40px;
+  top: 50px;
+
+} */
+/* .box-2 {
+  background-color: green;
+  position: absolute; 
+   left: 50px;
+  top: 20px;
+} */
+/*
+.box-3 {
+  background-color: aqua;
+  position: absolute;
+  left: 20px;
+} */
+/* .box-4 {
+  background-color: brown;
+} */
+/* 
+.para p {
+  text-align: justify;
+}
+#fixed-btn {
+  border: none;
+  background-color: green;
+  font-size: 17px;
+  padding: 4px;
+  font-weight: 700;
+  width: 170px;
+  height: 40px;
+  border-radius: 12px;
+  position: sticky;
+  top: 20px;
+} */
+/* 
+:root {
+  --primary-color: brown;
+  --secondary-color: gray;
+  --ten-percentage: green;
+} */
+/* 
+p {
+  color: var(--primary-color);
+}
+h2 {
+  color: var(--secondary-color);
+}
+h4 {
+  color: var(--ten-percentage);
+}
+
+h4 {
+  color: green;
+} */
+p {
+  color: green !important;
+}
+.para {
+  color: red;
+}
+#para {
+  color: aqua;
+}
